@@ -2,7 +2,6 @@
 
 <img id="image" src="../assets/turn-of.png" alt="">
 
-
 🚀 ##Tecnologias
 
 -HTML
