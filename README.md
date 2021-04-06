@@ -1,6 +1,8 @@
 ## SEMÁFORO 
+<p> Simples semáforo desenvolvido por mim em um curso de desenvolvimento web da Cod3r para fins didático. </p>
 
-<img id="image" src="../assets/turn-of.png" alt="">
+
+<img src="./assets/semafaro.png" alt="">
 
 🚀 ##Tecnologias
 
@@ -16,3 +18,4 @@
 - Closure
 - Condition
 - Etc.
+
